@@ -1,0 +1,15 @@
+#p1 {
+    color: rgb(64, 196, 52);
+}
+#p2 {
+    font-size: larger;
+}
+#p3 {
+    font-weight: bold;
+}
+#p4 {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal; 
+}
