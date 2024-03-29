@@ -1,0 +1,28 @@
+.retangulo {
+    height: 500px;
+    width: 1000px;
+    background-color:#009c3b;
+    position: relative;
+    top: 100px;
+    left: 400px;
+}
+
+.losangulo {
+    height: 300px;
+    width: 300px;
+    background-color: #ffdf00;
+    position: relative;
+    top: 100px;
+    left: 350px;
+    transform: rotate(45deg);
+}
+
+
+.circulo {
+    background-color: #002776;
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    position: absolute;
+    
+}
