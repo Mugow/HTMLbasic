@@ -1,0 +1,18 @@
+.retangulo {
+    height: 200px;
+    width: 200px;
+    background-color: lawngreen;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.circulo {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    top: 300px;
+    left: 300px;
+    border-radius: 100%;
+}

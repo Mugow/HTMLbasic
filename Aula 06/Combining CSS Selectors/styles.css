@@ -1,0 +1,15 @@
+h1, h2 {
+    color: purple;
+}
+.caixa > p {
+    color: blue;
+}
+.caixa li {
+    color: red;
+}
+li.realizado {
+    color: green;
+}
+ul p.realizado {
+    color: aqua;
+}
