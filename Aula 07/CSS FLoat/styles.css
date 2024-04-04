@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: yellow;
+}
+h2 {
+    text-align: center;
+    color: yellow;
+}
+div {
+    text-align: center;
+    display: inline-block;
+    width: 50%;
+}
+footer {
+    text-align: center;
+    color: yellow;
+
+}
+body{
+    background-color:rgba(57, 138, 57, 0.671);
+}

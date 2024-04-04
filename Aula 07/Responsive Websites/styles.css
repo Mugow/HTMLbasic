@@ -1,0 +1,10 @@
+/* 
+Mobile: 319px - 480px
+Tablet: 481px - 1200px
+Notebook: 1201px - 1600px
+Desktop ou TV: acima de 1601px
+*/
+
+body {
+    background-color: aquamarine;
+}

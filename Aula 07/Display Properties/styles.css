@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(99, 91, 67);
+}
+
+.Pvermelho {
+    color: red;
+    display: block;
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    position: relative;
+    left: 750px;
+}
+
+.Pverde {
+    color: greenyellow;
+    display: block;
+    height: 200px;
+    width: 200px;
+    background-color: fuchsia;
+    position: relative;
+    left: 750px;
+}
+
+.Pazul {
+    color: blue;
+    height: 200px;
+    width: 200px;
+    display: block;
+    background-color: aliceblue;
+    position: relative;
+    left: 750px;
+}
